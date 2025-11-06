@@ -1,0 +1,6002 @@
+[
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 30,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 39,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 35,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 67,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 60,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 16,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 17,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 34,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 73,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 50,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 21,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 24,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 32,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 40,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 51,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 56,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 52,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 57,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 29,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 42,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 62,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 50,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 66,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 422,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 59,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 62,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 492,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 64,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "Apollo Pharmacy, MG Road",
+    "address": "123 MG Road, Bangalore",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 491,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 27,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 45,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 38,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 53,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 50,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 20,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 32,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 78,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 46,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 26,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 38,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 20,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 22,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 30,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 51,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 70,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 51,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 63,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 27,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 51,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 81,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 53,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 66,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 332,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 74,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 69,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 340,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 86,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "MedPlus Pharmacy, Indiranagar",
+    "address": "45 100 Feet Road, Indiranagar, Bangalore",
+    "latitude": 12.978,
+    "longitude": 77.64,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 360,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 21,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 43,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 56,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 53,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 16,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 21,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 70,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 36,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 31,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 40,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 19,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 27,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 59,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 51,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 54,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 57,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 36,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 85,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 55,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 55,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 390,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 73,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 71,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 342,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 52,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "HealthPlus Pharmacy, Whitefield",
+    "address": "12 Whitefield Main Road, Whitefield, Bangalore",
+    "latitude": 12.9719,
+    "longitude": 77.7278,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 450,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 20,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 49,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 29,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 57,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 48,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 23,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 17,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 50,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 34,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 31,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 21,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 27,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 30,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 55,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 69,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 51,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 58,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 40,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 34,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 88,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 77,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 83,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 453,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 69,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 69,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 373,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 76,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "LifeCare Pharmacy, Koramangala",
+    "address": "89 5th Block, Koramangala, Bangalore",
+    "latitude": 12.9352,
+    "longitude": 77.6245,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 390,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 22,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 35,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 37,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 50,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 55,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 20,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 22,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 20,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 56,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 31,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 16,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 35,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 32,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 60,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 51,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 52,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 50,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 26,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 45,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 67,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 63,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 59,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 399,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 69,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 59,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 328,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 81,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "Wellness Pharmacy, Jayanagar",
+    "address": "56 4th Block, Jayanagar, Bangalore",
+    "latitude": 12.925,
+    "longitude": 77.5938,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 484,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 28,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 36,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 39,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 53,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 50,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 19,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 16,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 29,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 73,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 34,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 29,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 39,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 30,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 23,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 28,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 41,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 51,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 41,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 57,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 28,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 45,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 81,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 56,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 90,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 310,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 68,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 56,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 453,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 52,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "CarePlus Pharmacy, HSR Layout",
+    "address": "23 HSR Main Road, HSR Layout, Bangalore",
+    "latitude": 12.9116,
+    "longitude": 77.641,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 361,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 23,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 49,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 29,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 65,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 59,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 18,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 68,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 33,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 23,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 37,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 21,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 41,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 58,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 54,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 58,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 59,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 38,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 53,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 90,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 79,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 91,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 416,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 76,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 61,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 443,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 79,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "Medico Pharmacy, Bannerghatta",
+    "address": "34 Bannerghatta Main Road, Bangalore",
+    "latitude": 12.915,
+    "longitude": 77.6033,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 373,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 22,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 48,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 28,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 69,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 57,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 24,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 74,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 32,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 32,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 32,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 15,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 26,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 32,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 47,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 58,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 40,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 58,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 34,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 55,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 71,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 60,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 83,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 338,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 62,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 50,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 367,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 68,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "HealthyLife Pharmacy, Malleshwaram",
+    "address": "78 Sampige Road, Malleshwaram, Bangalore",
+    "latitude": 13.0097,
+    "longitude": 77.5726,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 471,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 27,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 37,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 40,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 63,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 53,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 18,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 17,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 32,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 63,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 33,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 32,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 34,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 23,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 23,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 36,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 42,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 63,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 51,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 57,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 44,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 69,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 54,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 84,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 456,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 73,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 63,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 326,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 61,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "WellBeing Pharmacy, Basavanagudi",
+    "address": "19 Gandhi Bazaar, Basavanagudi, Bangalore",
+    "latitude": 12.9491,
+    "longitude": 77.5742,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 449,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 23,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 37,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 34,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 50,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 56,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 16,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 24,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 75,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 34,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 38,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 28,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 27,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 34,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 53,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 51,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 48,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 66,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 42,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 73,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 58,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 52,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 340,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 54,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 65,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 458,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 51,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "GoodHealth Pharmacy, Hebbal",
+    "address": "101 Outer Ring Road, Hebbal, Bangalore",
+    "latitude": 13.0358,
+    "longitude": 77.597,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 469,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 27,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 35,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 32,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 61,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 57,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 17,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 20,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 34,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 68,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 48,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 27,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 28,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 16,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 36,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 58,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 66,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 43,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 69,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 34,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 52,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 78,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 54,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 69,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 492,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 53,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 50,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 374,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 89,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "CityCare Pharmacy, Rajajinagar",
+    "address": "45 5th Cross, Rajajinagar, Bangalore",
+    "latitude": 12.9971,
+    "longitude": 77.5563,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 443,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 28,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 43,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 36,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 50,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 51,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 23,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 23,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 34,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 52,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 31,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 22,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 27,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 22,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 29,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 42,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 55,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 52,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 51,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 59,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 26,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 36,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 81,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 52,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 52,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 479,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 77,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 62,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 480,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 63,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "PrimeCare Pharmacy, Yelahanka",
+    "address": "12 Yelahanka Main Road, Bangalore",
+    "latitude": 13.0835,
+    "longitude": 77.6,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 374,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 30,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 41,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 58,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 58,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 19,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 19,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 30,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 63,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 49,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 22,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 29,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 30,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 54,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 58,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 55,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 68,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 45,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 41,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 80,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 59,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 78,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 303,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 62,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 67,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 430,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 84,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "Nova Pharmacy, Electronic City",
+    "address": "7 Neeladri Road, Electronic City, Bangalore",
+    "latitude": 12.8393,
+    "longitude": 77.6646,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 363,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 20,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 38,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 32,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 50,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 57,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 19,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 24,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 63,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 32,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 23,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 29,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 24,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 37,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 51,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 58,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 43,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 64,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 29,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 39,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 66,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 52,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 76,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 439,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 71,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 58,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 338,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 74,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "Aster Pharmacy, BTM Layout",
+    "address": "34 1st Stage, BTM Layout, Bangalore",
+    "latitude": 12.9153,
+    "longitude": 77.6101,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 476,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 36,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 64,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 49,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 21,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 20,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 22,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 76,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 50,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 20,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 28,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 22,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 28,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 40,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 52,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 61,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 55,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 58,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 41,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 34,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 66,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 59,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 61,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 372,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 68,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 66,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 500,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 76,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "LifeLine Pharmacy, Kalyan Nagar",
+    "address": "56 HRBR Layout, Kalyan Nagar, Bangalore",
+    "latitude": 13.0257,
+    "longitude": 77.6371,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 389,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 40,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 62,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 58,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 21,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 15,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 30,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 68,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 42,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 23,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 17,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 27,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 28,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 43,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 69,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 46,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 59,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 38,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 52,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 68,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 75,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 79,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 406,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 55,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 60,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 437,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 82,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "GoodLife Pharmacy, Shivajinagar",
+    "address": "21 Richmond Road, Shivajinagar, Bangalore",
+    "latitude": 12.9842,
+    "longitude": 77.605,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 361,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 42,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 36,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 58,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 45,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 24,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 17,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 24,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 64,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 48,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 32,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 34,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 21,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 46,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 56,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 40,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 54,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 39,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 37,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 89,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 73,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 98,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 338,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 54,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 65,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 360,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 80,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "HealthWay Pharmacy, Hennur",
+    "address": "12 Hennur Main Road, Bangalore",
+    "latitude": 13.0212,
+    "longitude": 77.6451,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 465,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 22,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 43,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 27,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 59,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 56,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 24,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 15,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 35,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 76,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 47,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 28,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 32,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 21,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 32,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 43,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 70,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 45,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 70,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 37,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 51,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 74,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 56,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 99,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 390,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 74,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 64,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 358,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 84,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "WellnessPlus Pharmacy, Marathahalli",
+    "address": "45 Marathahalli Main Road, Bangalore",
+    "latitude": 12.9754,
+    "longitude": 77.7146,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 381,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 24,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 48,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 36,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 67,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 57,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 22,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 16,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 78,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 42,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 30,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 32,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 21,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 33,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 50,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 60,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 47,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 63,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 38,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 41,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 78,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 66,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 53,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 393,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 53,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 66,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 322,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 52,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "CarePoint Pharmacy, Sarjapur",
+    "address": "78 Sarjapur Main Road, Bangalore",
+    "latitude": 12.9112,
+    "longitude": 77.673,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 480,
+    "quantity": "1 spray bottle"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Paracetamol",
+    "dosage": "500 mg tablet",
+    "price": 24,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Amoxicillin",
+    "dosage": "250 mg capsule",
+    "price": 44,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Ibuprofen",
+    "dosage": "200 mg tablet",
+    "price": 25,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Cough Syrup",
+    "dosage": "100 ml syrup",
+    "price": 64,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Metformin",
+    "dosage": "500 mg tablet",
+    "price": 51,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Aspirin",
+    "dosage": "75 mg tablet",
+    "price": 24,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Cetirizine",
+    "dosage": "10 mg tablet",
+    "price": 18,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Vitamin C",
+    "dosage": "500 mg tablet",
+    "price": 22,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Azithromycin",
+    "dosage": "500 mg tablet",
+    "price": 66,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Omeprazole",
+    "dosage": "20 mg capsule",
+    "price": 35,
+    "quantity": "strip of 10 capsules"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Loperamide",
+    "dosage": "2 mg tablet",
+    "price": 23,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Diclofenac",
+    "dosage": "50 mg tablet",
+    "price": 31,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Levocetirizine",
+    "dosage": "5 mg tablet",
+    "price": 28,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Ranitidine",
+    "dosage": "150 mg tablet",
+    "price": 21,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Salbutamol",
+    "dosage": "2 mg tablet",
+    "price": 28,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Diclofenac Gel",
+    "dosage": "15 g gel",
+    "price": 49,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Cetirizine Syrup",
+    "dosage": "100 ml syrup",
+    "price": 65,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Paracetamol Syrup",
+    "dosage": "100 ml syrup",
+    "price": 51,
+    "quantity": "bottle of 100 ml"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Metformin SR",
+    "dosage": "500 mg tablet",
+    "price": 63,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Amlodipine",
+    "dosage": "5 mg tablet",
+    "price": 36,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Pantoprazole",
+    "dosage": "40 mg tablet",
+    "price": 52,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Clarithromycin",
+    "dosage": "500 mg tablet",
+    "price": 63,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Levofloxacin",
+    "dosage": "500 mg tablet",
+    "price": 67,
+    "quantity": "strip of 6 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Multivitamins",
+    "dosage": "tablet",
+    "price": 76,
+    "quantity": "strip of 10 tablets"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Insulin Injection",
+    "dosage": "10 ml",
+    "price": 335,
+    "quantity": "1 vial"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Diclofenac Injection",
+    "dosage": "3 ml",
+    "price": 58,
+    "quantity": "1 ampoule"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Hydrocortisone Cream",
+    "dosage": "15 g cream",
+    "price": 59,
+    "quantity": "tube of 15 g"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Salbutamol Inhaler",
+    "dosage": "200 doses",
+    "price": 473,
+    "quantity": "1 inhaler"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Vitamin D3",
+    "dosage": "60,000 IU tablet",
+    "price": 89,
+    "quantity": "1 tablet"
+  },
+  {
+    "pharmacy_name": "MediCare Pharmacy, Kengeri",
+    "address": "23 Kengeri Main Road, Bangalore",
+    "latitude": 12.888,
+    "longitude": 77.5,
+    "medicine_name": "Fluticasone Nasal Spray",
+    "dosage": "120 doses",
+    "price": 440,
+    "quantity": "1 spray bottle"
+  }
+]
