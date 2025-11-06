@@ -2,12 +2,17 @@ import dotenv from "dotenv";
 dotenv.config();  // this must be at the very top
 //console.log("Mapbox token:", process.env.MAPBOX_TOKEN);
 // index.js
+import cors from "cors";
 import express from "express";
 import medicineRoutes from "./routes/medicineRoutes.js";
 
 const app = express();
-
+app.use(cors());
 app.use(express.json()); 
+
+app.use(cors({
+  origin: "http://localhost:8080"
+}));
 
 // basic test route
 app.get("/", (req, res) => {
